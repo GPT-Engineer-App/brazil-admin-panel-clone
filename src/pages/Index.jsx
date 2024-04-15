@@ -23,7 +23,7 @@ const Index = () => {
             <Text fontSize="xl" fontWeight="bold">
               Saldo
             </Text>
-            <Text fontSize="3xl">R$ 5.250,00</Text>
+            <Text fontSize="3xl">R$ 15.000,00</Text>
           </Box>
 
           <Flex mb={8}>
