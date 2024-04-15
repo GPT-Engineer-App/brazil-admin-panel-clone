@@ -6,7 +6,7 @@ const Index = () => {
   return (
     <Box bg="gray.100" minH="100vh">
       <Flex as="header" bg="brand.900" color="white" p={4} align="center">
-        <Image src="https://images.unsplash.com/photo-1620288627223-53302f4e8c74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxiYW5jbyUyMGRvJTIwYnJhc2lsJTIwbG9nb3xlbnwwfHx8fDE3MTMyMTg4NDV8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Banco do Brasil" h={8} mr={4} />
+        <Image src="https://logopng.com.br/logos/banco-do-brasil-5.svg" alt="Banco do Brasil" h={8} mr={4} />
         <Heading size="md">Painel de Administração</Heading>
       </Flex>
 
